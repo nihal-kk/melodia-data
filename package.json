@@ -1,18 +1,18 @@
 {
-  "name": "-melodia-data",
+  "name": "melodia-data",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend JSON server for Melodia app",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nihal-kk/-melodia-data.git"
+    "url": "https://github.com/nihal-kk/-melodia-data.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["json-server", "melodia", "music", "api"],
+  "author": "Nihal K K",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nihal-kk/-melodia-data/issues"
