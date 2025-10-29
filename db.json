@@ -172,40 +172,10 @@
     }
   ],
   "liked": [
-    {
-      "id": "a2d7",
-      "songId": "3",
-      "title": "Empuraane",
-      "artist": "Usha Uthup",
-      "img": "/songs/trending/photo/empuran.jpeg",
-      "audio": "/songs/trending/song/Empuraane.mp3"
-    }
+ 
   ],
   "mylist": [
-    {
-      "id": "3964",
-      "songId": "30",
-      "title": "SEMPERO",
-      "artist": "QMIIR",
-      "img": "/songs/trending/photo/simparo.jpeg",
-      "audio": "/songs/trending/song/simparo.mp3"
-    },
-    {
-      "id": "f9ca",
-      "songId": "29",
-      "title": "No Era Amor",
-      "artist": "Marta Soto and Adrià Salas",
-      "img": "/songs/trending/photo/no-era.jpeg",
-      "audio": "/songs/trending/song/No-era.mp3"
-    },
-    {
-      "id": "a4be",
-      "songId": "28",
-      "title": "DIA DELÍCIA",
-      "artist": "Nakama, MC Staff, and ΣP.",
-      "img": "/songs/trending/photo/dia.jpeg",
-      "audio": "/songs/trending/song/dia.mp3"
-    }
+
   ],
   "allSongs": [
     {
@@ -482,60 +452,6 @@
     }
   ],
   "history": [
-    {
-      "id": "56d2",
-      "songId": "27",
-      "title": "akale",
-      "artist": "Harib Hussain & Anne Amie",
-      "img": "/songs/trending/photo/akale.jpeg",
-      "audio": "/songs/trending/song/akale.mp3",
-      "playedAt": "2025-10-28T10:28:53.710Z"
-    },
-    {
-      "id": "0909",
-      "songId": "1761650100222",
-      "title": "Blood Marco",
-      "artist": "Ravi Basrur, Dabzee",
-      "img": "/songs/trending/photo/bloodd",
-      "audio": "/songs/trending/song/bloodd",
-      "playedAt": "2025-10-28T11:15:07.330Z"
-    },
-    {
-      "id": "9770",
-      "songId": "1761650239209",
-      "title": "Marco Blood",
-      "artist": "Ravi Basrur, Dabzee",
-      "img": "/songs/trending/photo/blood.jpg",
-      "audio": "/songs/trending/song/bloodd.mp3",
-      "playedAt": "2025-10-28T11:17:24.933Z"
-    },
-    {
-      "id": "75c8",
-      "songId": "1761650817619",
-      "title": "Mazhamegham",
-      "artist": " Ali Mangad , Sreya Jayadeep.",
-      "img": "/songs/trending/photo/mazha.jpg",
-      "audio": "/songs/trending/song/mazha.mp3",
-      "playedAt": "2025-10-28T11:27:04.555Z"
-    },
-    {
-      "id": "fefe",
-      "songId": "1761715117884",
-      "title": "Gaza",
-      "artist": "Pc x Thudwiser ",
-      "img": "/songs/trending/photo/gaza",
-      "audio": "/songs/trending/song/gaza",
-      "playedAt": "2025-10-29T05:18:42.035Z"
-    },
-    {
-      "id": "e4dd",
-      "songId": "1761715173189",
-      "title": "gaza",
-      "artist": "Pc x Thudwiser ",
-      "img": "/songs/trending/photo/gaza.jpg",
-      "audio": "/songs/trending/song/gaza.mp3",
-      "playedAt": "2025-10-29T05:19:37.978Z"
-    }
   ],
   "users": [
     {
@@ -576,13 +492,5 @@
       "plan": "free",
       "loggedIn": true
     }
-  ],
-  "session": {
-    "user": {}
-  },
-  "currentUser": {
-    "id": 1,
-    "name": "Admin",
-    "role": "admin"
-  }
+  ]
 }
