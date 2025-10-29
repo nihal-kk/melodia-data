@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nihal-kk/-melodia-data.git"
+    "url": "https://github.com/nihal-kk/melodia-data.git"
   },
   "keywords": ["json-server", "melodia", "music", "api"],
   "author": "Nihal K K",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nihal-kk/-melodia-data/issues"
+    "url": "https://github.com/nihal-kk/melodia-data/issues"
   },
-  "homepage": "https://github.com/nihal-kk/-melodia-data#readme",
+  "homepage": "https://github.com/nihal-kk/melodia-data#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3"
