@@ -1,0 +1,588 @@
+{
+  "trending": [
+    {
+      "id": "1",
+      "title": "Jaalakaari",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/jalakkarii.jpeg",
+      "audio": "/songs/trending/song/Jaalakaari.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Chirapunji",
+      "artist": "Hanan Shah",
+      "img": "/songs/trending/photo/Chirapunji.jpg",
+      "audio": "/songs/trending/song/Chirapunji.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Empuraane",
+      "artist": "Usha Uthup",
+      "img": "/songs/trending/photo/empuran.jpeg",
+      "audio": "/songs/trending/song/Empuraane.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Kaadhal Ponmaan",
+      "artist": "Vishnu Vijay",
+      "img": "/songs/trending/photo/kanl pop.jpeg",
+      "audio": "/songs/trending/song/Kaadhal-Ponmaan.mp3"
+    },
+    {
+      "id": "5",
+      "title": "King OF Kotha",
+      "artist": "Dabzee",
+      "img": "/songs/trending/photo/King-of-Kotha.jpg",
+      "audio": "/songs/trending/song/King-of-Kotha.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Kudukku",
+      "artist": "Vineeth Sreenivasan",
+      "img": "/songs/trending/photo/kuduttu.jpeg",
+      "audio": "/songs/trending/song/Kudukku.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Thani Lokah Murakkaari",
+      "artist": "Jakes Bejoy",
+      "img": "/songs/trending/photo/lokah-1.jpg",
+      "audio": "/songs/trending/song/Lokah-1.mp3"
+    },
+    {
+      "id": "8",
+      "title": "Malayali",
+      "artist": "MBL",
+      "img": "/songs/trending/photo/Malayali.jpg",
+      "audio": "/songs/trending/song/Malayali.mp3"
+    },
+    {
+      "id": "9",
+      "title": "Neeye Punchiri",
+      "artist": "Hanan Shah",
+      "img": "/songs/trending/photo/neeye lokh.jpeg",
+      "audio": "/songs/trending/song/Neeye-Punchiri.mp3"
+    },
+    {
+      "id": "10",
+      "title": "Sheriya",
+      "artist": "Ed Sheeran",
+      "img": "/songs/trending/photo/SHERIYA.jpg",
+      "audio": "/songs/trending/song/SHERIYA.mp3"
+    },
+    {
+      "id": "11",
+      "title": "Oorum Blood",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/oorum.jpeg",
+      "audio": "/songs/trending/song/Oorum blood.mp3"
+    },
+    {
+      "id": "12",
+      "title": "Onam Mood",
+      "artist": "Fejo",
+      "img": "/songs/trending/photo/onam.jpeg",
+      "audio": "/songs/trending/song/Onam Mood.mp3"
+    },
+    {
+      "id": "13",
+      "title": "Kanmanipoove",
+      "artist": "M.G. Sreekumar",
+      "img": "/songs/trending/photo/kanmani-povu.jpeg",
+      "audio": "/songs/trending/song/Kanmanipoove.mp3"
+    },
+    {
+      "id": "14",
+      "title": "hope",
+      "artist": "Brittany Howard",
+      "img": "/songs/trending/photo/hope.jpeg",
+      "audio": "/songs/trending/song/Hope.mp3"
+    },
+    {
+      "id": "15",
+      "title": "Aasa Kooda",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/aasa.jpeg",
+      "audio": "/songs/trending/song/aasa.mp3"
+    },
+    {
+      "id": "116",
+      "title": "Powerhouse",
+      "artist": "Lokesh",
+      "img": "/songs/trending/photo/Powerhouse.jpeg",
+      "audio": "/songs/trending/song/Powerhouse.mp3"
+    }
+  ],
+  "rec": [
+    {
+      "id": "9",
+      "title": "Neeye Punchiri",
+      "artist": "Hanan Shah",
+      "img": "public/songs/trending/photo/neeye lokh.jpeg",
+      "audio": "/songs/trending/song/Neeye-Punchiri.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Kaadhal Ponmaan",
+      "artist": "Vishnu Vijay",
+      "img": "/songs/trending/photo/kanl pop.jpeg",
+      "audio": "/songs/trending/song/Kaadhal-Ponmaan.mp3"
+    },
+    {
+      "id": "1",
+      "title": "Jaalakaari",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/jalakkarii.jpeg",
+      "audio": "/songs/trending/song/Jaalakaari.mp3"
+    },
+    {
+      "id": "12",
+      "title": "Onam Mood",
+      "artist": "Fejo",
+      "img": "/songs/trending/photo/onam.jpeg",
+      "audio": "/songs/trending/song/Onam Mood.mp3"
+    },
+    {
+      "id": "13",
+      "title": "Kanmanipoove",
+      "artist": "M.G. Sreekumar",
+      "img": "/songs/trending/photo/kanmani-povu.jpeg",
+      "audio": "/songs/trending/song/Kanmanipoove.mp3"
+    },
+    {
+      "id": "9",
+      "title": "Neeye Punchiri",
+      "artist": "Hanan Shah",
+      "img": "public/songs/trending/photo/neeye lokh.jpeg",
+      "audio": "/songs/trending/song/Neeye-Punchiri.mp3"
+    },
+    {
+      "id": "10",
+      "title": "Sheriya",
+      "artist": "Ed Sheeran",
+      "img": "/songs/trending/photo/SHERIYA.jpg",
+      "audio": "/songs/trending/song/SHERIYA.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Thani Lokah Murakkaari",
+      "artist": "Jakes Bejoy",
+      "img": "/songs/trending/photo/lokah-1.jpg",
+      "audio": "/songs/trending/song/Lokah-1.mp3"
+    }
+  ],
+  "liked": [
+    {
+      "id": "a2d7",
+      "songId": "3",
+      "title": "Empuraane",
+      "artist": "Usha Uthup",
+      "img": "/songs/trending/photo/empuran.jpeg",
+      "audio": "/songs/trending/song/Empuraane.mp3"
+    }
+  ],
+  "mylist": [
+    {
+      "id": "3964",
+      "songId": "30",
+      "title": "SEMPERO",
+      "artist": "QMIIR",
+      "img": "/songs/trending/photo/simparo.jpeg",
+      "audio": "/songs/trending/song/simparo.mp3"
+    },
+    {
+      "id": "f9ca",
+      "songId": "29",
+      "title": "No Era Amor",
+      "artist": "Marta Soto and Adrià Salas",
+      "img": "/songs/trending/photo/no-era.jpeg",
+      "audio": "/songs/trending/song/No-era.mp3"
+    },
+    {
+      "id": "a4be",
+      "songId": "28",
+      "title": "DIA DELÍCIA",
+      "artist": "Nakama, MC Staff, and ΣP.",
+      "img": "/songs/trending/photo/dia.jpeg",
+      "audio": "/songs/trending/song/dia.mp3"
+    }
+  ],
+  "allSongs": [
+    {
+      "id": "1",
+      "title": "Jaalakaari",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/jalakkarii.jpeg",
+      "audio": "/songs/trending/song/Jaalakaari.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "2",
+      "title": "Chirapunji",
+      "artist": "Hanan Shah",
+      "img": "/songs/trending/photo/Chirapunji.jpg",
+      "audio": "/songs/trending/song/Chirapunji.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "3",
+      "title": "Empuraane",
+      "artist": "Usha Uthup",
+      "img": "/songs/trending/photo/empuran.jpeg",
+      "audio": "/songs/trending/song/Empuraane.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "4",
+      "title": "Kaadhal Ponmaan",
+      "artist": "Vishnu Vijay",
+      "img": "/songs/trending/photo/kanl pop.jpeg",
+      "audio": "/songs/trending/song/Kaadhal-Ponmaan.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "5",
+      "title": "King OF Kotha",
+      "artist": "Dabzee",
+      "img": "/songs/trending/photo/King-of-Kotha.jpg",
+      "audio": "/songs/trending/song/King-of-Kotha.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "6",
+      "title": "Kudukku",
+      "artist": "Vineeth Sreenivasan",
+      "img": "/songs/trending/photo/kuduttu.jpeg",
+      "audio": "/songs/trending/song/Kudukku.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "7",
+      "title": "Thani Lokah Murakkaari",
+      "artist": "Jakes Bejoy",
+      "img": "/songs/trending/photo/lokah-1.jpg",
+      "audio": "/songs/trending/song/Lokah-1.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "8",
+      "title": "Malayali",
+      "artist": "MBL",
+      "img": "/songs/trending/photo/Malayali.jpg",
+      "audio": "/songs/trending/song/Malayali.mp3",
+      "mood": "rap"
+    },
+    {
+      "id": "9",
+      "title": "Neeye Punchiri",
+      "artist": "Hanan Shah",
+      "img": "public/songs/trending/photo/neeye lokh.jpeg",
+      "audio": "/songs/trending/song/Neeye-Punchiri.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "10",
+      "title": "Sheriya",
+      "artist": "Ed Sheeran",
+      "img": "/songs/trending/photo/SHERIYA.jpg",
+      "audio": "/songs/trending/song/SHERIYA.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "11",
+      "title": "Oorum Blood",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/oorum.jpeg",
+      "audio": "/songs/trending/song/Oorum blood.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "12",
+      "title": "Onam Mood",
+      "artist": "Fejo",
+      "img": "/songs/trending/photo/onam.jpeg",
+      "audio": "/songs/trending/song/Onam Mood.mp3",
+      "mood": "happy"
+    },
+    {
+      "id": "13",
+      "title": "Kanmanipoove",
+      "artist": "M.G. Sreekumar",
+      "img": "/songs/trending/photo/kanmani-povu.jpeg",
+      "audio": "/songs/trending/song/Kanmanipoove.mp3",
+      "mood": "happy"
+    },
+    {
+      "id": "14",
+      "title": "hope",
+      "artist": "Brittany Howard",
+      "img": "/songs/trending/photo/hope.jpeg",
+      "audio": "/songs/trending/song/Hope.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "15",
+      "title": "Aasa Kooda",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/aasa.jpeg",
+      "audio": "/songs/trending/song/aasa.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "16",
+      "title": "Vatteppam",
+      "artist": "Dabzee",
+      "img": "/songs/trending/photo/Vatteppam.jpeg",
+      "audio": "/songs/trending/song/Vatteppam.mp3",
+      "mood": "happy"
+    },
+    {
+      "id": "17",
+      "title": "Saiyaara Title Song",
+      "artist": "Faheem Abdullah",
+      "img": "/songs/trending/photo/sayyara.jpeg",
+      "audio": "/songs/trending/song/saiyyara.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "18",
+      "title": "Sajde",
+      "artist": "Faheem Abdullah",
+      "img": "/songs/trending/photo/Sajde.jpeg",
+      "audio": "/songs/trending/song/Sajde.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "19",
+      "title": "Permaani",
+      "artist": "Safa Musthafa",
+      "img": "/songs/trending/photo/permani.jpeg",
+      "audio": "/songs/trending/song/Permaani.mp3",
+      "mood": "rap"
+    },
+    {
+      "id": "20",
+      "title": "Insaanile",
+      "artist": "Hanan Shah",
+      "img": "/songs/trending/photo/Insaanile.jpeg",
+      "audio": "/songs/trending/song/Insaanile.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "21",
+      "title": "CHAL",
+      "artist": "Dabzee",
+      "img": "/songs/trending/photo/CHAL.jpeg",
+      "audio": "/songs/trending/song/CHAL.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "22",
+      "title": "Jhol",
+      "artist": " Maanu | Annural Khalid",
+      "img": "/songs/trending/photo/jhol.jpeg",
+      "audio": "/songs/trending/song/joul.mp3",
+      "mood": "love"
+    },
+    {
+      "id": "23",
+      "title": "Chaak",
+      "artist": "AZWIN,JOKER,EFY ",
+      "img": "/songs/trending/photo/chaak.jpeg",
+      "audio": "/songs/trending/song/chaak.mp3",
+      "mood": "rap"
+    },
+    {
+      "id": "24",
+      "title": "Powerhouse",
+      "artist": "Lokesh",
+      "img": "/songs/trending/photo/Powerhouse.jpeg",
+      "audio": "/songs/trending/song/Powerhouse.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "25",
+      "title": "Khalbinnakame",
+      "artist": "Maqbool Mansoor",
+      "img": "/songs/trending/photo/kalb.jpeg",
+      "audio": "/songs/trending/song/Khalbinnakame.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "26",
+      "title": "Maayunnallo",
+      "artist": "Jakes Bejoy",
+      "img": "/songs/trending/photo/prince.jpeg",
+      "audio": "/songs/trending/song/prince.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "27",
+      "title": "akale",
+      "artist": "Harib Hussain & Anne Amie",
+      "img": "/songs/trending/photo/akale.jpeg",
+      "audio": "/songs/trending/song/akale.mp3",
+      "mood": "sad"
+    },
+    {
+      "id": "28",
+      "title": "DIA DELÍCIA",
+      "artist": "Nakama, MC Staff, and ΣP.",
+      "img": "/songs/trending/photo/dia.jpeg",
+      "audio": "/songs/trending/song/dia.mp3",
+      "mood": "ponk"
+    },
+    {
+      "id": "29",
+      "title": "No Era Amor",
+      "artist": "Marta Soto and Adrià Salas",
+      "img": "/songs/trending/photo/no-era.jpeg",
+      "audio": "/songs/trending/song/No-era.mp3",
+      "mood": "ponk"
+    },
+    {
+      "id": "30",
+      "title": "SEMPERO",
+      "artist": "QMIIR",
+      "img": "/songs/trending/photo/simparo.jpeg",
+      "audio": "/songs/trending/song/simparo.mp3",
+      "mood": "ponk"
+    },
+    {
+      "id": "31",
+      "title": "FUNK DE BELEZA ",
+      "artist": "Nateki, Scythermane, and MC Mayah. ",
+      "img": "/songs/trending/photo/funk.jpeg",
+      "audio": "/songs/trending/song/funk.mp3",
+      "mood": "ponk"
+    },
+    {
+      "id": "1761650239209",
+      "title": "Marco Blood",
+      "artist": "Ravi Basrur, Dabzee",
+      "img": "/songs/trending/photo/blood.jpg",
+      "audio": "/songs/trending/song/bloodd.mp3",
+      "mood": "adrenaline"
+    },
+    {
+      "id": "1761650817619",
+      "title": "Mazhamegham ",
+      "artist": " Ali Mangad , Sreya Jayadeep.",
+      "img": "/songs/trending/photo/mazha.jpg",
+      "audio": "/songs/trending/song/mazha.mp3",
+      "mood": "breakupsongs"
+    },
+    {
+      "id": "1761715173189",
+      "title": "gaza",
+      "artist": "Pc x Thudwiser ",
+      "img": "/songs/trending/photo/gaza.jpg",
+      "audio": "/songs/trending/song/gaza.mp3",
+      "mood": "sad"
+    }
+  ],
+  "history": [
+    {
+      "id": "56d2",
+      "songId": "27",
+      "title": "akale",
+      "artist": "Harib Hussain & Anne Amie",
+      "img": "/songs/trending/photo/akale.jpeg",
+      "audio": "/songs/trending/song/akale.mp3",
+      "playedAt": "2025-10-28T10:28:53.710Z"
+    },
+    {
+      "id": "0909",
+      "songId": "1761650100222",
+      "title": "Blood Marco",
+      "artist": "Ravi Basrur, Dabzee",
+      "img": "/songs/trending/photo/bloodd",
+      "audio": "/songs/trending/song/bloodd",
+      "playedAt": "2025-10-28T11:15:07.330Z"
+    },
+    {
+      "id": "9770",
+      "songId": "1761650239209",
+      "title": "Marco Blood",
+      "artist": "Ravi Basrur, Dabzee",
+      "img": "/songs/trending/photo/blood.jpg",
+      "audio": "/songs/trending/song/bloodd.mp3",
+      "playedAt": "2025-10-28T11:17:24.933Z"
+    },
+    {
+      "id": "75c8",
+      "songId": "1761650817619",
+      "title": "Mazhamegham",
+      "artist": " Ali Mangad , Sreya Jayadeep.",
+      "img": "/songs/trending/photo/mazha.jpg",
+      "audio": "/songs/trending/song/mazha.mp3",
+      "playedAt": "2025-10-28T11:27:04.555Z"
+    },
+    {
+      "id": "fefe",
+      "songId": "1761715117884",
+      "title": "Gaza",
+      "artist": "Pc x Thudwiser ",
+      "img": "/songs/trending/photo/gaza",
+      "audio": "/songs/trending/song/gaza",
+      "playedAt": "2025-10-29T05:18:42.035Z"
+    },
+    {
+      "id": "e4dd",
+      "songId": "1761715173189",
+      "title": "gaza",
+      "artist": "Pc x Thudwiser ",
+      "img": "/songs/trending/photo/gaza.jpg",
+      "audio": "/songs/trending/song/gaza.mp3",
+      "playedAt": "2025-10-29T05:19:37.978Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@melodia.com",
+      "password": "123456",
+      "role": "admin",
+      "plan": "premium",
+      "active": true,
+      "loggedIn": false
+    },
+    {
+      "id": 2,
+      "username": "Nihal",
+      "email": "nihal@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "plan": "Premium",
+      "active": true,
+      "loggedIn": false
+    },
+    {
+      "id": "75bb",
+      "username": "sinan",
+      "email": "sinan@gmail.com",
+      "password": "sinan1919",
+      "role": "user",
+      "plan": "Pro",
+      "loggedIn": false
+    },
+    {
+      "id": "8e78",
+      "username": "bismi",
+      "email": "bismi@gmail.com",
+      "password": "1q1q1q1q",
+      "role": "user",
+      "plan": "free",
+      "loggedIn": true
+    }
+  ],
+  "session": {
+    "user": {}
+  },
+  "currentUser": {
+    "id": 1,
+    "name": "Admin",
+    "role": "admin"
+  }
+}
