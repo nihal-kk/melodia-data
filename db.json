@@ -453,7 +453,6 @@
     
   ],
   "users": [
-   [
   {
     "id": "1",
     "username": "admin",
@@ -634,7 +633,7 @@
     "loggedIn": false,
     "id": "Gf_lF4Y"
   }
-]
+
   ],
   "session": {
     "user": {}
