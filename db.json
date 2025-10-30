@@ -461,7 +461,7 @@
       "role": "admin",
       "plan": "premium",
       "active": true,
-      "loggedIn": true
+      "loggedIn": false
     },
     {
       "id": "2",
@@ -519,7 +519,9 @@
       "email": "saja@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+      "loggedIn": false
     },
     {
       "id": "813d",
@@ -527,7 +529,9 @@
       "email": "shammas@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     },
     {
       "id": "7f36",
@@ -535,7 +539,9 @@
       "email": "faris@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     },
     {
       "id": "1e69",
@@ -543,7 +549,9 @@
       "email": "danish@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     },
     {
       "id": "f13c",
@@ -551,7 +559,9 @@
       "email": "famitha@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     },
     {
       "id": "7ae6",
@@ -559,7 +569,9 @@
       "email": "mashhood@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     },
     {
       "id": "bb2d",
@@ -567,7 +579,9 @@
       "email": "shamil@gmail.com",
       "password": "12qwaszx",
       "role": "user",
-      "plan": "free"
+      "plan": "free",
+      "active": true,
+"loggedIn": false
     }
   ],
   "session": {
