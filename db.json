@@ -453,136 +453,188 @@
     
   ],
   "users": [
-    {
-      "id": "1",
-      "username": "admin",
-      "email": "admin@melodia.com",
-      "password": "123456",
-      "role": "admin",
-      "plan": "premium",
-      "active": true,
-      "loggedIn": false
-    },
-    {
-      "id": "2",
-      "username": "Nihal",
-      "email": "nihal@gmail.com",
-      "password": "123456",
-      "role": "admin",
-      "plan": "Premium",
-      "active": true,
-      "loggedIn": false
-    },
-    {
-      "id": "75bb",
-      "username": "sinan",
-      "email": "sinan@gmail.com",
-      "password": "sinan1919",
-      "role": "user",
-      "plan": "Pro",
-      "loggedIn": false,
-      "active": true
-    },
-    {
-      "id": "8e78",
-      "username": "bismi",
-      "email": "bismi@gmail.com",
-      "password": "1q1q1q1q",
-      "role": "user",
-      "plan": "free",
-      "loggedIn": false,
-      "active": true
-    },
-    {
-      "id": "0b1d",
-      "username": "shibil",
-      "email": "shibil@melodia.com",
-      "password": "shibil@melodia.com",
-      "role": "user",
-      "plan": "Premium",
-      "loggedIn": false,
-      "active": true
-    },
-    {
-      "id": "5ef2",
-      "username": "thanha",
-      "email": "thanha@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "loggedIn": false,
-      "active": true
-    },
-    {
-      "id": "2262",
-      "username": "saja",
-      "email": "saja@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-      "loggedIn": false
-    },
-    {
-      "id": "813d",
-      "username": "shammas",
-      "email": "shammas@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    },
-    {
-      "id": "7f36",
-      "username": "faris",
-      "email": "faris@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    },
-    {
-      "id": "1e69",
-      "username": "danish",
-      "email": "danish@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    },
-    {
-      "id": "f13c",
-      "username": "famitha",
-      "email": "famitha@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    },
-    {
-      "id": "7ae6",
-      "username": "mashhood",
-      "email": "mashhood@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    },
-    {
-      "id": "bb2d",
-      "username": "shamil",
-      "email": "shamil@gmail.com",
-      "password": "12qwaszx",
-      "role": "user",
-      "plan": "free",
-      "active": true,
-"loggedIn": false
-    }
+   [
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@melodia.com",
+    "password": "123456",
+    "role": "admin",
+    "plan": "premium",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "2",
+    "username": "Nihal",
+    "email": "nihal@gmail.com",
+    "password": "123456",
+    "role": "admin",
+    "plan": "Premium",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "75bb",
+    "username": "sinan",
+    "email": "sinan@gmail.com",
+    "password": "sinan1919",
+    "role": "user",
+    "plan": "Pro",
+    "loggedIn": false,
+    "active": true
+  },
+  {
+    "id": "8e78",
+    "username": "bismi",
+    "email": "bismi@gmail.com",
+    "password": "1q1q1q1q",
+    "role": "user",
+    "plan": "free",
+    "loggedIn": false,
+    "active": true
+  },
+  {
+    "id": "0b1d",
+    "username": "shibil",
+    "email": "shibil@melodia.com",
+    "password": "shibil@melodia.com",
+    "role": "user",
+    "plan": "Premium",
+    "loggedIn": false,
+    "active": true
+  },
+  {
+    "id": "5ef2",
+    "username": "thanha",
+    "email": "thanha@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "loggedIn": false,
+    "active": true
+  },
+  {
+    "id": "2262",
+    "username": "saja",
+    "email": "saja@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "813d",
+    "username": "shammas",
+    "email": "shammas@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "7f36",
+    "username": "faris",
+    "email": "faris@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "1e69",
+    "username": "danish",
+    "email": "danish@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "f13c",
+    "username": "famitha",
+    "email": "famitha@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "7ae6",
+    "username": "mashhood",
+    "email": "mashhood@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "id": "bb2d",
+    "username": "shamil",
+    "email": "shamil@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false
+  },
+  {
+    "username": "murshid",
+    "email": "murshid@gmail.com",
+    "password": "12qwaszx",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false,
+    "id": "TisTlKU"
+  },
+  {
+    "username": "b1z_m1",
+    "email": "bisminizam@gmail.com",
+    "password": "bismi@gmail.com",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false,
+    "id": "8R0L1Au"
+  },
+  {
+    "username": "Shamil",
+    "email": "muhammedshamil8275@gmail.com",
+    "password": "qwerty",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false,
+    "id": "rMD_i7Y"
+  },
+  {
+    "username": "hashida",
+    "email": "hashinhashida@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false,
+    "id": "3IyP4YF"
+  },
+  {
+    "username": "shinas63",
+    "email": "shinas@gmail.com",
+    "password": "shinus",
+    "role": "user",
+    "plan": "Pro",
+    "active": false,
+    "loggedIn": false,
+    "id": "Gf_lF4Y"
+  }
+]
   ],
   "session": {
     "user": {}
