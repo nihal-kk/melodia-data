@@ -172,11 +172,16 @@
     }
   ],
   "liked": [
- 
+    {
+      "id": "283f",
+      "songId": "1761650817619",
+      "title": "Mazhamegham ",
+      "artist": " Ali Mangad , Sreya Jayadeep.",
+      "img": "/songs/trending/photo/mazha.jpg",
+      "audio": "/songs/trending/song/mazha.mp3"
+    }
   ],
-  "mylist": [
-
-  ],
+  "mylist": [],
   "allSongs": [
     {
       "id": "1",
@@ -452,20 +457,128 @@
     }
   ],
   "history": [
+    {
+      "id": "56d2",
+      "songId": "27",
+      "title": "akale",
+      "artist": "Harib Hussain & Anne Amie",
+      "img": "/songs/trending/photo/akale.jpeg",
+      "audio": "/songs/trending/song/akale.mp3",
+      "playedAt": "2025-10-28T10:28:53.710Z"
+    },
+    {
+      "id": "0909",
+      "songId": "1761650100222",
+      "title": "Blood Marco",
+      "artist": "Ravi Basrur, Dabzee",
+      "img": "/songs/trending/photo/bloodd",
+      "audio": "/songs/trending/song/bloodd",
+      "playedAt": "2025-10-28T11:15:07.330Z"
+    },
+    {
+      "id": "9770",
+      "songId": "1761650239209",
+      "title": "Marco Blood",
+      "artist": "Ravi Basrur, Dabzee",
+      "img": "/songs/trending/photo/blood.jpg",
+      "audio": "/songs/trending/song/bloodd.mp3",
+      "playedAt": "2025-10-28T11:17:24.933Z"
+    },
+    {
+      "id": "75c8",
+      "songId": "1761650817619",
+      "title": "Mazhamegham",
+      "artist": " Ali Mangad , Sreya Jayadeep.",
+      "img": "/songs/trending/photo/mazha.jpg",
+      "audio": "/songs/trending/song/mazha.mp3",
+      "playedAt": "2025-10-28T11:27:04.555Z"
+    },
+    {
+      "id": "fefe",
+      "songId": "1761715117884",
+      "title": "Gaza",
+      "artist": "Pc x Thudwiser ",
+      "img": "/songs/trending/photo/gaza",
+      "audio": "/songs/trending/song/gaza",
+      "playedAt": "2025-10-29T05:18:42.035Z"
+    },
+    {
+      "id": "e4dd",
+      "songId": "1761715173189",
+      "title": "gaza",
+      "artist": "Pc x Thudwiser ",
+      "img": "/songs/trending/photo/gaza.jpg",
+      "audio": "/songs/trending/song/gaza.mp3",
+      "playedAt": "2025-10-29T05:19:37.978Z"
+    },
+    {
+      "id": "77b8",
+      "songId": "1",
+      "title": "Jaalakaari",
+      "artist": "Sai Abhyankkar",
+      "img": "/songs/trending/photo/jalakkarii.jpeg",
+      "audio": "/songs/trending/song/Jaalakaari.mp3",
+      "playedAt": "2025-10-29T10:47:44.564Z"
+    },
+    {
+      "id": "dffc",
+      "songId": "19",
+      "title": "Permaani",
+      "artist": "Safa Musthafa",
+      "img": "/songs/trending/photo/permani.jpeg",
+      "audio": "/songs/trending/song/Permaani.mp3",
+      "playedAt": "2025-10-29T10:52:02.810Z"
+    },
+    {
+      "id": "e616",
+      "songId": "22",
+      "title": "Jhol",
+      "artist": " Maanu | Annural Khalid",
+      "img": "/songs/trending/photo/jhol.jpeg",
+      "audio": "/songs/trending/song/joul.mp3",
+      "playedAt": "2025-10-29T10:52:05.610Z"
+    },
+    {
+      "id": "7a94",
+      "songId": "21",
+      "title": "CHAL",
+      "artist": "Dabzee",
+      "img": "/songs/trending/photo/CHAL.jpeg",
+      "audio": "/songs/trending/song/CHAL.mp3",
+      "playedAt": "2025-10-29T10:52:09.193Z"
+    },
+    {
+      "id": "f900",
+      "songId": "7",
+      "title": "Thani Lokah Murakkaari",
+      "artist": "Jakes Bejoy",
+      "img": "/songs/trending/photo/lokah-1.jpg",
+      "audio": "/songs/trending/song/Lokah-1.mp3",
+      "playedAt": "2025-10-29T12:23:59.561Z"
+    },
+    {
+      "id": "0a9a",
+      "songId": "10",
+      "title": "Sheriya",
+      "artist": "Ed Sheeran",
+      "img": "/songs/trending/photo/SHERIYA.jpg",
+      "audio": "/songs/trending/song/SHERIYA.mp3",
+      "playedAt": "2025-10-29T12:28:49.249Z"
+    }
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "username": "admin",
       "email": "admin@melodia.com",
       "password": "123456",
       "role": "admin",
       "plan": "premium",
       "active": true,
-      "loggedIn": false
+      "loggedIn": true
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "Nihal",
       "email": "nihal@gmail.com",
       "password": "123456",
@@ -481,7 +594,8 @@
       "password": "sinan1919",
       "role": "user",
       "plan": "Pro",
-      "loggedIn": false
+      "loggedIn": false,
+      "active": true
     },
     {
       "id": "8e78",
@@ -490,7 +604,87 @@
       "password": "1q1q1q1q",
       "role": "user",
       "plan": "free",
-      "loggedIn": true
+      "loggedIn": false,
+      "active": true
+    },
+    {
+      "id": "0b1d",
+      "username": "shibil",
+      "email": "shibil@melodia.com",
+      "password": "shibil@melodia.com",
+      "role": "user",
+      "plan": "Premium",
+      "loggedIn": false,
+      "active": true
+    },
+    {
+      "id": "5ef2",
+      "username": "thanha",
+      "email": "thanha@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free",
+      "loggedIn": false,
+      "active": true
+    },
+    {
+      "id": "2262",
+      "username": "saja",
+      "email": "saja@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "813d",
+      "username": "shammas",
+      "email": "shammas@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "7f36",
+      "username": "faris",
+      "email": "faris@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "1e69",
+      "username": "danish",
+      "email": "danish@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "f13c",
+      "username": "famitha",
+      "email": "famitha@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "7ae6",
+      "username": "mashhood",
+      "email": "mashhood@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
+    },
+    {
+      "id": "bb2d",
+      "username": "shamil",
+      "email": "shamil@gmail.com",
+      "password": "12qwaszx",
+      "role": "user",
+      "plan": "free"
     }
-  ]
+  ],
+  "session": {
+    "user": {}
+  }
 }
