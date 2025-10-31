@@ -447,7 +447,55 @@
       "img": "/songs/trending/photo/gaza.jpg",
       "audio": "/songs/trending/song/gaza.mp3",
       "mood": "sad"
-    }
+    },
+     {
+    "id": "1761898678029",
+    "title": "Sage End - ഓള് (Official Audio)",
+    "artist": "Sage End and AZWIN",
+    "img": "/songs/trending/photo/oul.jpeg",
+    "audio": "/songs/trending/song/oul.mp3",
+    "mood": "love"
+  },
+  {
+    "id": "1761898977162",
+    "title": "jhelum roya",
+    "artist": "faheem abdullah",
+    "img": "/songs/trending/photo/jhelam.jpeg",
+    "audio": "/songs/trending/song/jhelam.mp3",
+    "mood": "love"
+  },
+  {
+    "id": "1761899142900",
+    "title": " Ehsaas",
+    "artist": "Faheem abdullah",
+    "img": "/songs/trending/photo/Ehsaas.jpeg",
+    "audio": "/songs/trending/song/Ehsaas.mp3",
+    "mood": "love"
+  },
+  {
+    "id": "1761899429377",
+    "title": "ishq",
+    "artist": "Faheem abdullah",
+    "img": "/songs/trending/photo/Ishq.jpeg",
+    "audio": "/songs/trending/song/Ishq.mp3",
+    "mood": "love"
+  },
+  {
+    "id": "1761899828667",
+    "title": "Ennai Vittu",
+    "artist": "Sid Sriram",
+    "img": "/songs/trending/photo/Ennai Vittu.jpeg",
+    "audio": "/songs/trending/song/Ennai Vittu.mp3",
+    "mood": "breakupsongs"
+  },
+  {
+    "id": "1761899978331",
+    "title": "Nebulakal Manjummel Boys",
+    "artist": "Sushin Shyam",
+    "img": "/songs/trending/photo/Nebulakal.jpeg",
+    "audio": "/songs/trending/song/Nebulakal.mp3",
+    "mood": "adrenaline"
+  }
   ],
   "history": [
     
