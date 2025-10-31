@@ -632,6 +632,46 @@
     "active": false,
     "loggedIn": false,
     "id": "Gf_lF4Y"
+  },
+    {
+    "username": "aswin",
+    "email": "aswin@gmail.com",
+    "password": "aswin@gmail.com",
+    "role": "user",
+    "plan": "free",
+    "active": true,
+    "loggedIn": true,
+    "id": "G19VVXq"
+  },
+  {
+    "username": "sammasAA",
+    "email": "shammasaa9@gmail.com",
+    "password": "123456",
+    "role": "admin",
+    "plan": "free",
+    "active": true,
+    "loggedIn": true,
+    "id": "QGIoqwh"
+  },
+  {
+    "username": "sammasAA",
+    "email": "shammasaa9@gmail.com",
+    "password": "123456",
+    "role": "admin",
+    "plan": "free",
+    "active": true,
+    "loggedIn": false,
+    "id": "7wENghT"
+  },
+  {
+    "username": "mashud",
+    "email": "mashoodmuthu123@gmail.com",
+    "password": "mashud",
+    "role": "admin",
+    "plan": "free",
+    "active": true,
+    "loggedIn": true,
+    "id": "NAi3HLw"
   }
 
   ],
